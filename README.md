@@ -1,4 +1,4 @@
-# Validator
+# Validatorhttps://pypi.org/rss/project/validator/releases.xml
 
 Validator is a Python library for dealing with request validating.
 
